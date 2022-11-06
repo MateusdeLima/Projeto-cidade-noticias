@@ -14,5 +14,15 @@ com 3, 2 ou 1 coluna por exemplo temos todo um trabalho com flutuação com o fl
 Exemplos de como ficou o projeto finalizado, importante lembrar no projetos final o professor não fez todas as abas do menu, nesse eu fiz um upgrade
 para complemnetar.
 
-Exemplo 1:
+Exemplo 1: 
+
+![Screenshot_1](https://user-images.githubusercontent.com/89278014/200186817-72cbcc6b-899e-4b39-b0ed-8fa60eb38483.png)
+
+Exemplo 2:
+
+![Screenshot_2](https://user-images.githubusercontent.com/89278014/200186881-36c0f284-5413-40f3-9206-b78d7b5df06b.png)
+
+Exemplo 3:
+
+![Screenshot_3](https://user-images.githubusercontent.com/89278014/200186901-71706a06-14a2-49a4-b3ed-fbfa83aaad33.png)
 
