@@ -12,7 +12,7 @@ a página, e tudo isso é dados pela mudança da forma de medido ao invés de us
 com 3, 2 ou 1 coluna por exemplo temos todo um trabalho com flutuação com o float.
 
 Exemplos de como ficou o projeto finalizado, importante lembrar no projetos final o professor não fez todas as abas do menu, nesse eu fiz um upgrade
-para complemnetar.
+para complementar.
 
 Exemplo 1: 
 
